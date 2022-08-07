@@ -1,0 +1,19 @@
+title: "Hay Futuro si hay Verdad"
+subtitle: "La escuela abraza la verdad"
+author: "Comisión de la Verdad"
+institute: "Legado de la Comisión de la verdad"
+date: "Agosto 2022"
+titlegraphic: imgs/logo-CEV-hor-hd.png
+logo: imgs/logo-CEV-vertical-med.png
+subject: "Informe de la Comisión de la verdad (2022)"
+keywords: "Esclarecimiento; Convivencia; No Repetición;"
+aspectratio: 149
+theme: Marburg
+colortheme: seahorse
+fonttheme: structurebold
+innertheme:
+colorlinks: true
+citecolor: red
+urlcolor: magenta
+lang: es
+toc-title: "Contenido"
