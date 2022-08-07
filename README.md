@@ -51,3 +51,7 @@ divulgation of the function of the Truth Commission as a transitory
 extrajudicial mechanism to know and clarify the truth, in the frame of
 the acts of human rights violations that occurred in the context of
 the armed conflict in Colombia.
+
+## License
+The Unlicense
+

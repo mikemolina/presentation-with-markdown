@@ -55,3 +55,7 @@ divulgación de la función de la Comisión de la Verdad como mecanismo
 transitorio extrajudicial para conocer y esclarecer la verdad, frente
 a los hechos de violaciones de los derechos humanos ocurridos en el
 marco del conflicto armado en Colombia.
+
+## Licencia
+The Unlicense
+
