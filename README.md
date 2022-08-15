@@ -6,6 +6,8 @@ the **Markdown** format, compiled via the popular document converter:
 Configuration files and build commands for Pandoc are included in this
 example.
 
+![Presentation cover](imgs/cover.png)
+
 ## Dependencies
 To get the PDF of the presentation, this example requires:
 

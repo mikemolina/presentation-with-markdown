@@ -16,7 +16,13 @@ all:
 	@echo "Usar:"
 	@echo "  make gen_beamer"
 
-gen_beamer: $(MDFILE) $(YAMLFILE)
+gen_beamer: $(PDFFILE)
+
+# Este comando requiere GraphicsMagick
+gen_cover: $(PDFFILE)
+	gm convert -scale 640x -density 300 $<\[0\] imgs/cover.png
+
+$(PDFFILE): $(MDFILE) $(YAMLFILE)
 	pandoc -s -f $(SRCFORMAT) -t beamer \
 	--toc \
 	--number-section --shift-heading-level=0 --slide-level 2 \

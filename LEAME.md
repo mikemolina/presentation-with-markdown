@@ -6,6 +6,8 @@ del popular conversor de documentos **Pandoc**.
 Archivos de configuración y comandos de compilación para Pandoc son
 incluidos en este ejemplo.
 
+![Portada de la presentación](imgs/cover.png)
+
 ## Dependencias
 Para obtener el PDF de la presentación, este ejemplo requiere:
 
